@@ -1,6 +1,6 @@
 # Prova final 
 Life Equipamentos Eletrônicos Ltda
-# Credênciais do banco de dados
+# Credenciais do banco de dados
 O banco de dados está na pasta Php;
 ip = '127.0.0.1'
 user = 'root'
